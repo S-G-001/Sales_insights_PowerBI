@@ -1,2 +1,3 @@
 # Sales_insights_PowerBI
-Build a Power BI dashboard to Share Sales Insights
+## Create a Power BI dashboard to discover and share insights from the sales data.
+
