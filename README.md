@@ -7,4 +7,4 @@ Create a dynamic Power BI dashboard for the Sales Director and Sales team to
 - Reduce time spent on manual data collection 
 - Improve overall decision-making and increase sales.
 
-![](https://github.com/S-G-001/Sales_insights_PowerBI/blob/main/DashBoard_Screenshot.png)
+![](https://github.com/S-G-001/Sales_insights_PowerBI/blob/main/DashBoard_Screenshot.jpeg)
